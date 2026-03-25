@@ -2,8 +2,8 @@
 
 ## Public Resources
 
-- [Main Web Site](https://eastrangedist8.com/) - meetings, events, resources, and more
-- [Supplemental public website](https://github.com/mn-area35-d08/public-website) - treasurer's reports and District Meetings
+- [Main Web Site (East Range Dist 8)](https://eastrangedist8.com/) - meetings, events, resources, and more
+- [Supplemental content](https://github.com/mn-area35-d08/public-website) - treasurer's reports and District Meeting Schedule
 
 ## Private District 8 Officer Filing Cabinet
 
