@@ -1,4 +1,6 @@
-# Minnesota Area 35 District 8
+# Organization: Minnesota Area 35 District 8
+
+> This information shows up when you visit our organization on GitHub
 
 ## Public Resources
 
